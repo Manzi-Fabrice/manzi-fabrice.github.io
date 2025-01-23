@@ -6,11 +6,11 @@ let minutes = 0;
 let hours = 0;
 let days = 0;
 
-$('#main').html(`You Have been to this page for ${seconds} seconds.`);
+$('#main').html(`Thank you for visiting this page for ${days} days, ${hours} hours, ${minutes} minutes, and ${seconds} seconds.`);
 
 const updateDisplay = () => {
   $('#main').html(
-    `You Have been to this page for: ${days} days: ${hours} hours: ${minutes} minutes:${seconds} seconds.`,
+    `Thank you for visiting this page for ${days} days, ${hours} hours, ${minutes} minutes, and ${seconds} seconds.`,
   );
 };
 
