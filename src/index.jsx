@@ -5,12 +5,11 @@ import {
   BrowserRouter, Routes, Route, NavLink,
 } from 'react-router';
 import './style.scss';
+import Counter from './components/counter';
+import Controls from './components/controls';
 
 function About(props) {
   return <div> All there is to know about me </div>;
-}
-function Welcome(props) {
-  return <div>Welcome</div>;
 }
 
 function Nav(props) {
@@ -29,6 +28,16 @@ function Nav(props) {
 function Test(props) {
   const { id } = useParams();
   return <div> ID: {id} </div>;
+}
+
+function Welcome(props) {
+  return (
+    <div>
+      <h1>Welcome</h1>
+      <Counter />
+      <Controls />
+    </div>
+  );
 }
 
 function App(props) {
