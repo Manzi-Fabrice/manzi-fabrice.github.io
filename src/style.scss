@@ -1,10 +1,110 @@
-body,
-html {
-  font-family: "Roboto", sans-serif;
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+  padding: 4rem;
+}
+
+html, body {
   height: 100%;
+  overflow-y: auto;
+}
+
+main.profile-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+.profile-text {
+  flex: 1;
+  min-width: 300px;
+}
+
+.profile-text h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.profile-text p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.profile-text .links a {
+  margin: 0 0.4rem;
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.profile-text .links a:hover {
+  text-decoration: underline;
+}
+
+.profile-photo {
+  flex-shrink: 0;
+  text-align: center;
+}
+
+.profile-photo img {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.download-link {
+  display: block;
+  margin-top: 0.75rem;
+  color: #1a73e8;
+  font-size: 0.9rem;
 }
 
 
-.active {
-  color: pink;
+.links a,
+.inline-link {
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: 500;
+  margin: 0 0.3rem;
+}
+
+.inline-link:hover,
+.links a:hover {
+  text-decoration: underline;
+}
+
+strong {
+  font-weight: 700; // or 700 if you want it bolder
+}
+
+.news-section {
+  margin-top: 2.5rem;
+  padding-right: 1rem;
+
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+
+    li {
+      margin-bottom: 0.8rem;
+      line-height: 1.5;
+    }
+
+    em {
+      font-style: italic;
+    }
+  }
 }
