@@ -16,7 +16,7 @@ function App() {
         </p>
         <p>
           I’m especially interested in the intersection of <strong>low-resource language </strong>modeling and LLM security/fairness.
-          In particular, I study how training methods such as transfer learning and backpropagation can introduce
+          In particular, I study how training methods such as transfer learning and backtranslation can introduce
           unique vulnerabilities like <strong>memorization</strong> and exacerbate bias in underrepresented languages.
           I also investigate the underlying assumptions and failure modes of these methods, especially as they apply to foundation models.
         </p>
