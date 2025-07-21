@@ -40,7 +40,7 @@ function App() {
             <strong>May 2025:</strong> Presented <a className="inline-link" href="https://drive.google.com/file/d/1GH4b8QtI9FrQCjt7TriuF96n6mnkJgGx/view" target="_blank" rel="noreferrer">poster </a><em>“Diffusion Models are Brittle Memorizers: A PSNR-Based Audit of Localized and Global Reconstruction Fragility”</em>.
           </li>
           <li>
-            <strong>May 2025:</strong> Awarded $3,200 <a className="inline-link" href="https://students.dartmouth.edu/ugar/research/programs/presidential-scholars/program-information" target="_blank" rel="noreferrer">James O. Freedman Presidential Scholarship</a>research grant for my proposal <em>“Adaptive Curriculum Learning Based on Token-Level Linguistic Properties”</em>, <br />advised by<a className="inline-link" href="https://www.cs.dartmouth.edu/~soroush/" target="_blank" rel="noreferrer">Prof. Soroush Vosoughi</a>.
+            <strong>May 2025:</strong> Awarded $3,200 <a className="inline-link" href="https://students.dartmouth.edu/ugar/research/programs/presidential-scholars/program-information" target="_blank" rel="noreferrer">James O. Freedman Presidential Scholarship</a>research grant for my proposal <em>“Adaptive Curriculum Learning Based on Token-Level Linguistic Properties”</em>, advised by<a className="inline-link" href="https://www.cs.dartmouth.edu/~soroush/" target="_blank" rel="noreferrer">Prof. Soroush Vosoughi</a>.
           </li>
           <li>
             <strong>April 2025:</strong> Began GNN research internship with <a className="inline-link" href="https://sites.google.com/umich.edu/yujunyan/home" target="_blank" rel="noreferrer">Prof. Yujun Yan</a>, exploring soft clustering problems on knowledge graphs.
@@ -49,7 +49,7 @@ function App() {
             <strong>March 2025:</strong> Began working as ML Engineer in the Biological Sciences Dept., fine-tuning naturalist models on moth species from the Hubbard Brook forest.
           </li>
           <li>
-            <strong>June 2024:</strong> Received $1,700 <a className="inline-link" href="https://students.dartmouth.edu/ugar/research/programs/undergraduate-research-assistantships-dartmouth-urad/program-information" target="_blank" rel="noreferrer">URAD</a> grant for my internship project: <em>“Aquatic Robotics: Pollution Mapping with Multi-Agent Systems”</em>, advised by <a className="inline-link" href="https://rlab.cs.dartmouth.edu/albertoq/#" target="_blank" rel="noreferrer">Prof. Alberto Quattrini Li</a><br />— my first ML research experience.
+            <strong>June 2024:</strong> Received $1,700 <a className="inline-link" href="https://students.dartmouth.edu/ugar/research/programs/undergraduate-research-assistantships-dartmouth-urad/program-information" target="_blank" rel="noreferrer">URAD</a> grant for my internship project: <em>“Aquatic Robotics: Pollution Mapping with Multi-Agent Systems”</em>, <br />advised by <a className="inline-link" href="https://rlab.cs.dartmouth.edu/albertoq/#" target="_blank" rel="noreferrer">Prof. Alberto Quattrini Li</a><br />— my first ML research experience.
           </li>
         </ul>
 
