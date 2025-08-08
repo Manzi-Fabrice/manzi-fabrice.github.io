@@ -10,13 +10,14 @@ function App() {
         <p>
           I’m a junior at <strong>Dartmouth College</strong>, majoring in Computer Science with a minor in Math,
           where I’m fortunate to be advised by Professor
-          <strong><a className="inline-link" href="https://www.cs.dartmouth.edu/~soroush/" target="_blank" rel="noreferrer">Soroush Vosoughi.</a></strong>
+          <strong><a className="inline-link" href="https://www.cs.dartmouth.edu/~soroush/" target="_blank" rel="noreferrer">Soroush Vosoughi.</a></strong> and Professor
+          <strong><a className="inline-link" href="https://www.adambreuer.com/" target="_blank" rel="noreferrer">Adam Breuer.</a></strong>
           My research interests include <strong>ML Security & Fairness</strong>, <strong>Foundational Models</strong>,
           and <strong>multilingual NLP</strong> with focus on low-resource languages like Kinyarwanda (My native language ✨).
         </p>
         <p>
           I’m especially interested in the intersection of <strong>low-resource language </strong>modeling and LLM security/fairness.
-          In particular, I study how training methods such as transfer learning and backtranslation can introduce
+          In particular, I study how training methods such as transfer learning, PEFT, and backtranslation can introduce
           unique vulnerabilities like <strong>memorization</strong>.
           I also investigate the underlying assumptions and failure modes of these methods, especially as they apply to foundation models.
         </p>
