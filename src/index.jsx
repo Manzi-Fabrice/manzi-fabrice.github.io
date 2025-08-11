@@ -35,6 +35,10 @@ function App() {
         <h2>News</h2>
         <ul>
           <li>
+            <strong>August 2025:</strong> Awarded $20,000 <a className="inline-link" href="https://students.dartmouth.edu/surfd/scholar-programs/coulter-scholars/coulter-scholars" target="_blank" rel="noreferrer">Coulter Scholars</a>research grant for my proposal <em>“Quantifying and Mitigating Large Language Models’ Privacy Risks in Low-Resource Languages”</em>, advised by<a className="inline-link" href="https://www.cs.dartmouth.edu/~soroush/" target="_blank" rel="noreferrer">Prof. Soroush Vosoughi</a> and Prof.
+          <a className="inline-link" href="https://www.adambreuer.com/" target="_blank" rel="noreferrer noopener">Adam Breuer.</a>.
+          </li>
+          <li>
             <strong>June 2025:</strong> Started internship at Dell Technologies, improving chatbot query understanding with transformer models.
           </li>
           <li>
