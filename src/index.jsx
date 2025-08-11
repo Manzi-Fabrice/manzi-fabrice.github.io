@@ -8,10 +8,10 @@ function App() {
       <div className="profile-text">
         <h1>Fabrice</h1>
         <p>
-          I’m a junior at <strong>Dartmouth College</strong>, majoring in Computer Science with a minor in Math,
+          I’m a junior at <strong>Dartmouth College</strong>, majoring in Computer Science,
           where I’m fortunate to be advised by Professor
-          <strong><a className="inline-link" href="https://www.cs.dartmouth.edu/~soroush/" target="_blank" rel="noreferrer">Soroush Vosoughi.</a></strong> and Professor
-          <strong><a className="inline-link" href="https://www.adambreuer.com/" target="_blank" rel="noreferrer">Adam Breuer.</a></strong>
+          <strong><a className="inline-link" href="https://www.cs.dartmouth.edu/~soroush/" target="_blank" rel="noreferrer noopener">Soroush Vosoughi</a></strong>and Professor
+          <strong><a className="inline-link" href="https://www.adambreuer.com/" target="_blank" rel="noreferrer noopener">Adam Breuer.</a></strong>
           My research interests include <strong>ML Security & Fairness</strong>, <strong>Foundational Models</strong>,
           and <strong>multilingual NLP</strong> with focus on low-resource languages like Kinyarwanda (My native language ✨).
         </p>
@@ -42,12 +42,6 @@ function App() {
           </li>
           <li>
             <strong>May 2025:</strong> Awarded $3,200 <a className="inline-link" href="https://students.dartmouth.edu/ugar/research/programs/presidential-scholars/program-information" target="_blank" rel="noreferrer">James O. Freedman Presidential Scholarship</a>research grant for my proposal <em>“Adaptive Curriculum Learning Based on Token-Level Linguistic Properties”</em>, advised by<a className="inline-link" href="https://www.cs.dartmouth.edu/~soroush/" target="_blank" rel="noreferrer">Prof. Soroush Vosoughi</a>.
-          </li>
-          <li>
-            <strong>April 2025:</strong> Began GNN research internship with <a className="inline-link" href="https://sites.google.com/umich.edu/yujunyan/home" target="_blank" rel="noreferrer">Prof. Yujun Yan</a>, exploring soft clustering problems on knowledge graphs.
-          </li>
-          <li>
-            <strong>March 2025:</strong> Began working as ML Engineer in the Biological Sciences Dept., fine-tuning iNaturalist models on moth species from the Hubbard Brook forest.
           </li>
           <li>
             <strong>June 2024:</strong> Received $1,700 <a className="inline-link" href="https://students.dartmouth.edu/ugar/research/programs/undergraduate-research-assistantships-dartmouth-urad/program-information" target="_blank" rel="noreferrer">URAD</a> grant for my internship proposal: <em>“Aquatic Robotics: Pollution Mapping with Multi-Agent Systems”</em>, <br />advised by <a className="inline-link" href="https://rlab.cs.dartmouth.edu/albertoq/#" target="_blank" rel="noreferrer">Prof. Alberto Quattrini Li</a>— my first ML research experience.
